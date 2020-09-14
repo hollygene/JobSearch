@@ -3,18 +3,18 @@ Repository for job search organization - looking for scientist roles 2020
 
 
 # Goals: 
-- [] search for jobs 
-- [] research positions and companies 
-- [] tailor resumes and cover letters 
-- [] network (LinkedIn and Twitter)
+- search for jobs 
+- research positions and companies 
+- tailor resumes and cover letters 
+- network (LinkedIn and Twitter)
 
 
 
 # Personal Goals/Activites other than job searching 
-- [] blog writing
-- [] organize DC data 
-- [] craft projects 
-- [] exercise
+- blog writing
+- organize DC data 
+- craft projects 
+- exercise
 
 
 
